@@ -1,0 +1,12 @@
+{
+  "host": "localhost",
+  "port": 3030,
+  "mailgun": {
+    "apiKey": "MAILGUN_API_KEY",
+    "domain": "MAILGUN_DOMAIN"
+  },
+  "cors": {
+    "origin": "CORS_ORIGINS",
+    "methods": "POST"
+  }
+}
